@@ -2,7 +2,8 @@
 
 FawkesWebXE gets a **randomized fingerprint** in the EFF [Cover Your Tracks](https://coveryourtracks.eff.org/) test.
 
-![Result of the EFF Cover Your Tracks test: the browser has a randomized fingerprint](browser/components/fawkes/docs/images/eff-cover-your-tracks.png)
+<img width="1400" height="986" alt="Bildschirmfoto zu 2026-11-07 07-11-53" src="https://github.com/user-attachments/assets/9161708e-5c6d-441b-8971-50e12cb74260" />
+
 
 FawkesWebXE is a fork of Tor Browser 16.0, based on Firefox 153.5 ESR. It keeps the Tor network, the Tor circuit isolation and the protections of Tor Browser, and adds protection against browser fingerprinting and behavioral profiling, a proxy chain, an ad blocker and automatic cookie banner rejection. You can turn every measure on or off per site.
 
